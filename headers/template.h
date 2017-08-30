@@ -21,4 +21,6 @@
 
 #define GET_MIN(a,b) ((a)<(b)?(a):(b))
 
+#define ZERO_OR_LESS(val) 0>=val
+
 #endif
